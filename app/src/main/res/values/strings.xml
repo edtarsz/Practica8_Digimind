@@ -11,4 +11,7 @@
     <string name="logo">Logo</string>
     <string name="set_time">Set Time</string>
     <string name="at_what_time">At what time</string>
+    <string name="my_board">My board</string>
+    <string name="new_reminder">New Reminder</string>
+    <string name="logo_de_la_aplicaci_n">Logo de la aplicación</string>
 </resources>

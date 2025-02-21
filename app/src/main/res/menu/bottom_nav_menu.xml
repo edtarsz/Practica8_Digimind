@@ -3,12 +3,12 @@
 
     <item
         android:id="@+id/navigation_home"
-        android:icon="@drawable/ic_home_black_24dp"
-        android:title="@string/title_home" />
+        android:icon="@drawable/ic_baseline_align_horizontal_left_24"
+        android:title="@string/my_board" />
 
     <item
         android:id="@+id/navigation_dashboard"
-        android:icon="@drawable/ic_dashboard_black_24dp"
-        android:title="@string/title_dashboard" />
+        android:icon="@drawable/baseline_note_add_24"
+        android:title="@string/new_reminder" />
 
 </menu>
